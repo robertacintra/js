@@ -1,0 +1,20 @@
+body {
+    background-image: url(./assets/mob.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 5vh;
+    color-adjust: black;
+}
+
+.botao {
+    margin-top: 40vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
